@@ -1,0 +1,6 @@
+id,cliente,valor_estimado,prazo_dias,tipo,status
+1,Cliente A,15000,5,Eletrônico,pendente
+2,Cliente B,8000,2,Mecânico,pendente
+3,Cliente C,25000,10,Eletrônico,pendente
+4,Cliente A,5000,1,Mecânico,pendente
+5,Cliente D,12000,7,Eletrônico,pendente
